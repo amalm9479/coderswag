@@ -1,9 +1,10 @@
+
 package com.amalm9479.coderswag.Services
 
 import com.amalm9479.coderswag.Model.Category
 import com.amalm9479.coderswag.Model.Product
 
-object DateService {
+object DataService {
 
     val  categories = listOf(
 
